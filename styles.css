@@ -203,5 +203,5 @@ section.hero > div.hero-grid > .gall{
   grid-column: span 2;
   width: 100%;
   color: rgb(0, 0, 0);
-  border-bottom: 10px black ridge;
+  border-bottom: 12px black ridge;
 }

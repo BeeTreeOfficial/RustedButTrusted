@@ -36,7 +36,7 @@ a{
 }
 
 
-section.hero > div.hero-grid > div, section, gallery,h1,h2{
+section.hero > div.hero-grid > div, section, gallery{
   border: 2px groove black;
 }
 

@@ -14,7 +14,10 @@ html, body{
   color: var(--2);
 }
 
-
+ul.mods > li{
+  margin: 0;
+  line-height: 1.1em;
+}
 
 
 
@@ -35,6 +38,10 @@ a{
 --brd: rgb(21, 42, 0);
 }
 
+#support{
+  height: 100%;
+  box-sizing: border-box;
+}
 
 section.hero > div.hero-grid > div, section, gallery{
   border: 2px groove black;
@@ -42,7 +49,7 @@ section.hero > div.hero-grid > div, section, gallery{
 
 .hero-grid{
   display:grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 1fr;
   gap: 5vh;
   padding: 2vh;
   row-gap: 10vh;

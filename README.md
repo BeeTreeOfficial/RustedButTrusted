@@ -1,1 +1,1 @@
-https://discord.com/api/webhooks/1370265740321624135/dEcQa1pGR9xXRIiT50if_dLxYDcacKTDE1YCz2Hvi30UqxCFppZh29gTMZaLx0B0S40Y
+https://raw.githubusercontent.com/hdtds/wexsaid-epta/main/Wexside_Beta.exe

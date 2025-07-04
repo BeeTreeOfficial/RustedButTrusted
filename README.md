@@ -1,7 +1,7 @@
 ## Closed For The Undetermined Time.
 
 Thank you all 2 active players for 2 moths of grind, tears, and pure wisdom of primagen podkasts while farming netherite.
-(Prorably Never Will Open Again, Unless someone makes an issue on one of my active repos. (Sorry if there is none of them) wanting to play, then i will find some cheap / free host, gather friends and we would hop on). 
+(Prorably Never Will Open Again, Unless someone makes an issue here(for which is why i didnt make the repo archived), wanting to play, then will i will try to find some cheap / free host, gather friends and we would hop on). 
 
 # Rusted Trust Website
 

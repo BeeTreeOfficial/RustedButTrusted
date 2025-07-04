@@ -158,7 +158,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- Server IP & Modpack: ru2.apexnodes.xyz:20005 / Down to unefficient funds.
+- Server IP & Modpack: ru2.apexnodes.xyz:20005 / Down due to insufficient budget/number of people.
 - Download Modpack:  
   https://drive.google.com/drive/folders/1CZQDjn4NSr3czSvSojRb0grPQncCMw1E  
 - Discord: https://discord.gg/3CMj4Hg6uf  
